@@ -1,0 +1,838 @@
+[
+    {
+        "property_id": "21948",
+        "title": "Land measuring 1,500sqm at Jabi",
+        "description": "Property Description",
+        "listing_type": "Sales",
+        "property_type": "Land",
+        "status": "Available",
+        "number_of_page_views": 5290,
+        "price": "NGN 300,000,000",
+        "property_size": "1,500.00 sq. ft",
+        "miscellaneous_details": "None",
+        "address": "JABI",
+        "city": "Abuja, Abuja FCT",
+        "area": "Jabi",
+        "state": "Abuja",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Jabi",
+            "Abuja",
+            "Abuja-Fct"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2018/04/LUGBE-LAND1.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/land-in-lugbe-measuring-1-hectare/",
+        "page": 6,
+        "time_last_updated": 1708057167250
+    },
+    {
+        "property_id": "19008",
+        "title": "School Plot measuring 4,200sqm at Jahi with CofO",
+        "description": "A fenced school plot located at Jahi measuring 4,200 sqm is available for sale with CofO.",
+        "listing_type": "Sales",
+        "property_type": "Land",
+        "status": "Available",
+        "number_of_page_views": 5876,
+        "price": "NGN 300,000,000",
+        "property_size": "4,200.00 sq. ft",
+        "miscellaneous_details": "None",
+        "address": "Jahi",
+        "city": "Abuja",
+        "area": "Jahi",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Jahi",
+            "Abuja"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-08-at-1.00.00-PM-1.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/lovely-school-plot-at-jahi-measuring-4200-sqm/",
+        "page": 6,
+        "time_last_updated": 1708057168469
+    },
+    {
+        "property_id": "25620",
+        "title": "Brand New Luxury 5 Bedroom Mansion at Wuye",
+        "description": "Brand new Luxury Tastefully finished 5 bedroom detached mansion is available for sale at Wuye, Abuja.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 716,
+        "price": "NGN 300,000,000",
+        "property_size": "1,623.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "5",
+            "bedrooms": "6",
+            "bathrooms": "5"
+        },
+        "address": "Not Specified",
+        "city": "Abuja, Abuja FCT, wuye",
+        "area": "Wuye",
+        "state": "Abuja, Abuja FCT, Federal Capital Territory",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Wuye",
+            "Abuja",
+            "Abuja-Fct",
+            "Wuye"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2023/05/AE1-779x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/05/AE2-671x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/05/AE3-402x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/05/AE4-411x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/05/AE5-726x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/05/AE6-680x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/05/AE7-378x467.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/brand-new-luxury-5-bedroom-mansion-at-wuye/",
+        "page": 6,
+        "time_last_updated": 1708057170564
+    },
+    {
+        "property_id": "23391",
+        "title": "6 Bedroom Detached Duplex in Wuse 2",
+        "description": "A Luxury 6 bedroom detached duplex is available for sale at Wuse 2 district Abuja.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 950,
+        "price": "NGN 300,000,000",
+        "property_size": "Not Specified",
+        "miscellaneous_details": {
+            "rooms": "6",
+            "bedrooms": "8",
+            "bathrooms": "8"
+        },
+        "address": "Not Specified",
+        "city": "Abuja FCT, FCT,ABUJA",
+        "area": "Wuse II",
+        "state": "Abuja, Abuja FCT",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Wuse-Ll",
+            "Abuja-Fct",
+            "Fctabuja"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2020/10/BW1A-690x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2020/10/BW1-695x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2020/10/BW2-686x467.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/6-bedroom-detached-duplex-in-wuse-2/",
+        "page": 6,
+        "time_last_updated": 1708057172653
+    },
+    {
+        "property_id": "19184",
+        "title": "Tastefully Detached 7 Bedroom Duplex at Gwarinpa",
+        "description": "A spacious and very decently built 7 bedroom duplex is available for outright sale in Gwarinpa. This lovely property comes with 2 bedroom guest chalet, 2 bedroom boys quarter and a massive parking space.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 5532,
+        "price": "NGN 300,000,000",
+        "property_size": "2,800.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "7",
+            "bedrooms": "11",
+            "bathrooms": "10",
+            "year_built": "2015",
+            "garages": "15"
+        },
+        "address": "Gwarinpa",
+        "city": "Abuja",
+        "area": "Gwarinpa",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Gwarinpa",
+            "Abuja"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/03/IMG-20160314-WA0003-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/03/IMG-20160314-WA0000-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/03/IMG-20160314-WA0002-835x467.jpg"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/tastefully-detached-7-bedroom-duplex-at-gwarinpa/",
+        "page": 6,
+        "time_last_updated": 1708057174229
+    },
+    {
+        "property_id": "18783",
+        "title": "6 Bedroom Duplex at Maitama",
+        "description": "Strategically located is a massive six bedroom detached house at the centre of Maitama district Abuja is available for sale. \u00a0This corner piece plot stands out from the rest and its well designed with spacious rooms and all en-suite rooms and a two rooms guest chalet. This is a very good investment property as the return on investment at the location is premium.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 1851,
+        "price": "NGN 300,000,000",
+        "property_size": "1,120.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "6",
+            "bedrooms": "6",
+            "bathrooms": "8",
+            "year_built": "2008"
+        },
+        "address": "Maitama",
+        "city": "Maitama",
+        "area": "Maitama",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Maitama",
+            "Maitama"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/Screenshot_2016-01-26-15-58-47_1-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/Screenshot_2016-01-26-15-59-04_1-835x467.jpg"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/6-bedroom-detached-house-at-maitama/",
+        "page": 6,
+        "time_last_updated": 1708057176168
+    },
+    {
+        "property_id": "19932",
+        "title": "6 Bedroom Detached Duplex at Maitama",
+        "description": "6 bedroom duplex in Maitama main with large parking space, green area, interlocked compound, street lights, secured location, corner piece, 3 sitting rooms, 2 boys quarters, single gate, security house and lots more",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 1347,
+        "price": "NGN 280,000,000",
+        "property_size": "Not Specified",
+        "miscellaneous_details": {
+            "year_built": "2002"
+        },
+        "address": "Maitama",
+        "city": "Maitama",
+        "area": "Maitama",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Maitama",
+            "Maitama"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3715-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3713-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3717-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3719-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3720-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3722-835x467.jpg"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/6-bedroom-detached-duplex-in-maitama/",
+        "page": 6,
+        "time_last_updated": 1708057177698
+    },
+    {
+        "property_id": "25467",
+        "title": "Brand New 5 Bedroom Duplex at Guzape",
+        "description": "Brand new Luxury Tastefully finished 5 bedroom duplex is available for sale at Guzape district Abuja.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 258,
+        "price": "NGN 280,000,000",
+        "property_size": "325.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "5",
+            "bedrooms": "5",
+            "bathrooms": "6"
+        },
+        "address": "Not Specified",
+        "city": "Abuja, Abuja FCT, Guzape",
+        "area": "Guzape",
+        "state": "Abuja, Abuja FCT, Federal Capital Territory",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Guzape",
+            "Abuja",
+            "Abuja-Fct",
+            "Guzape"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2023/03/AD1-388x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/03/AD2.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/03/AD3-698x467.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/brand-new-5-bedroom-duplex-at-guzape/",
+        "page": 6,
+        "time_last_updated": 1708057179370
+    },
+    {
+        "property_id": "19715",
+        "title": "Luxury 5 Bedroom Mansion in Gwarinpa",
+        "description": "Executive and well finished 5 bedroom detached duplex with boys quarter, CCTV at a very quiet residential district in Gwarinpa with great facilities.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 5775,
+        "price": "NGN 280,000,000",
+        "property_size": "1,830.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "5",
+            "bedrooms": "5",
+            "bathrooms": "5",
+            "year_built": "2016",
+            "garages": "7"
+        },
+        "address": "Gwarinpa",
+        "city": "Abuja",
+        "area": "Gwarinpa",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Gwarinpa",
+            "Abuja"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3416-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3406-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3407-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3409-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3411-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3415-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3419-835x467.jpg"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/luxury-5-bedroom-mansion-in-gwarinpa/",
+        "page": 6,
+        "time_last_updated": 1708057181172
+    },
+    {
+        "property_id": "24252",
+        "title": "Brand New Luxury 5 Bedroom Duplex at Mabushi",
+        "description": "A brand new luxury 5 bedroom detached duplex is available for sale in the heart of Wuye district, Abuja.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 786,
+        "price": "NGN 280,000,000",
+        "property_size": "634.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "5",
+            "bedrooms": "6",
+            "bathrooms": "6",
+            "year_built": "2021",
+            "garages": "5",
+            "garage_size": "5"
+        },
+        "address": "Not Specified",
+        "city": "Abuja, Abuja FCT, Mabushi",
+        "area": "Mabushi",
+        "state": "Abuja, Abuja FCT, Federal Capital Territory",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Mabushi",
+            "Abuja",
+            "Abuja-Fct",
+            "Mabushi"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2021/11/AQ1-554x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2021/11/AQ2-550x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2021/11/AQ3.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2021/11/AQ4.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2021/11/AQ5.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2021/11/AQ6.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2021/11/AQ7.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/brand-new-luxury-5-bedroom-duplex-at-mabushi/",
+        "page": 6,
+        "time_last_updated": 1708057183070
+    },
+    {
+        "property_id": "20864",
+        "title": "11 Bedroom House in Gwarinpa for sale",
+        "description": "Well finished 11 bedroom fully detached House for sale with two rooms Boys quarters and two bedroom guest chalet in Gwarinpa, suitable for a guest house or residential house.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 1463,
+        "price": "NGN 280,000,000",
+        "property_size": "Not Specified",
+        "miscellaneous_details": {
+            "rooms": "11",
+            "bedrooms": "11",
+            "bathrooms": "11",
+            "year_built": "2015",
+            "garages": "12"
+        },
+        "address": "Gwarinpa",
+        "city": "Abuja FCT",
+        "area": "Gwarinpa",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Gwarinpa",
+            "Abuja-Fct"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG1-632x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG2-633x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG3-634x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG4-636x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG5-630x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG6-635x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG7-634x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG8-604x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG9-637x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG10-634x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG11-633x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG12-635x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG13-631x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2017/05/AGG14-632x467.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/11-bedroom-house-in-gwarinpa-for-sale/",
+        "page": 6,
+        "time_last_updated": 1708057184832
+    },
+    {
+        "property_id": "24082",
+        "title": "Spacious 4 Bedroom Bungalow at Wuse 2",
+        "description": null,
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 580,
+        "price": "NGN 270,000,000",
+        "property_size": "Not Specified",
+        "miscellaneous_details": {
+            "rooms": "4",
+            "bedrooms": "4",
+            "bathrooms": "4"
+        },
+        "address": "Not Specified",
+        "city": "Abuja, Abuja FCT, FCT,ABUJA",
+        "area": "Wuse II",
+        "state": "Abuja, Abuja FCT",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Wuse-Ll",
+            "Abuja",
+            "Abuja-Fct",
+            "Fctabuja"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2021/09/AZ1-698x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2021/09/AZ2-694x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2021/09/AZ3-690x467.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/spacious-4-bedroom-bungalow-at-wuse-2-2/",
+        "page": 6,
+        "time_last_updated": 1708057186349
+    },
+    {
+        "property_id": "19102",
+        "title": "Exclusive 6 Bedroom Luxury Mansion at Guzape",
+        "description": "Brand new Luxury Tastefully finished 6 Bedroom detached duplex is available for rent at Guzape district Abuja.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 5656,
+        "price": "NGN 270,000,000",
+        "property_size": "629.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "6",
+            "bedrooms": "6",
+            "bathrooms": "6",
+            "year_built": "2014",
+            "garages": "15",
+            "available_from": "2016"
+        },
+        "address": "Guzape",
+        "city": "Abuja, Abuja FCT, FCT,ABUJA",
+        "area": "Guzape, Other Locations",
+        "state": "Abuja, Abuja FCT, Federal Capital Territory",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Guzape",
+            "Other-Locations",
+            "Abuja",
+            "Abuja-Fct",
+            "Fctabuja"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/AG1-449x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/AG2-456x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/AG2A-453x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/AG3-453x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/AG4-452x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/AG5-453x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/AG6-405x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/AG7-450x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/AG8-453x467.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/exclusive-5-bedroom-duplex-at-lugbe/",
+        "page": 6,
+        "time_last_updated": 1708057187936
+    },
+    {
+        "property_id": "59",
+        "title": "Table Land at Katampe Extension Measuring 2,600 sqm",
+        "description": "A strategic land measuring 2,600sqm at Katampe Extension is available for outright sale.",
+        "listing_type": "Sales",
+        "property_type": "Land",
+        "status": "Available",
+        "number_of_page_views": 5788,
+        "price": "NGN 270,000,000",
+        "property_size": "2,600.00 sq. ft",
+        "miscellaneous_details": "None",
+        "address": "Katampe",
+        "city": "Abuja",
+        "area": "Katampe",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Katampe",
+            "Abuja"
+        ],
+        "contact_info": "None",
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2014/05/AXAS.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/katampe2600sqm/",
+        "page": 6,
+        "time_last_updated": 1708057189166
+    },
+    {
+        "property_id": "18291",
+        "title": "6 units of 3 Bedroom Apartment at Zone 3",
+        "description": "A spacious 6 units of 3 bedroom apartment is available for rent at Wuse zone 3, Abuja. Located at a very good district on the major road, this property is a good condition and all rooms are big. It has a fitted kitchen, boys quarter, swimming pool, security post, large parking area.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 5808,
+        "price": "NGN 270,000,000",
+        "property_size": "2,630.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "18",
+            "bedrooms": "18",
+            "bathrooms": "18",
+            "year_built": "2014",
+            "available_from": "2016"
+        },
+        "address": "Wuse zone 3",
+        "city": "Abuja",
+        "area": "Wuse zone 3",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Wuse-Zone-3",
+            "Abuja"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/ZONE-3-COMPLEX2.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/ZONE-3-COMPLEX1.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/ZONE-3-COMPLEX3.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/ZONE-3-COMPLEX4.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/ZONE-3-COMPLEX5.jpg"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/6-units-of-3-bedroom-apartment-at-zone-3/",
+        "page": 6,
+        "time_last_updated": 1708057190766
+    },
+    {
+        "property_id": "19852",
+        "title": "Luxury apartment at Central Business District",
+        "description": "The pinnacle of high-end living, each and every Tower One apartment is equipped with premium kitchen and bathroom fittings and appliances as well as built-in wardrobes as standard.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 1893,
+        "price": "NGN 270,000,000",
+        "property_size": "Not Specified",
+        "miscellaneous_details": {
+            "rooms": "3",
+            "bedrooms": "3",
+            "bathrooms": "3",
+            "year_built": "2016"
+        },
+        "address": "Central Business District",
+        "city": "Abuja FCT",
+        "area": "Central Area",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Central-Area",
+            "Abuja-Fct"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/Cloud-content-ACF6120B-1448449867000-835x341.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3511-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3517-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3520-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3522-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3524-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3525-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3527-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3528-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3532-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/07/IMAG3535-835x467.jpg"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/luxury-3-bedroom-apartment-in-central-business-district/",
+        "page": 6,
+        "time_last_updated": 1708057192411
+    },
+    {
+        "property_id": "24391",
+        "title": "Brand New Luxury 5 Bedroom Detached Duplex at Guzape",
+        "description": "Luxury Tastefully finished 5 bedroom detached duplex is available for sale at Guzape district Abuja.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 337,
+        "price": "NGN 260,000,000",
+        "property_size": "1,224.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "5",
+            "bedrooms": "6",
+            "bathrooms": "6"
+        },
+        "address": "Not Specified",
+        "city": "Abuja, Abuja FCT, FCT,ABUJA",
+        "area": "Guzape",
+        "state": "Abuja, Abuja FCT, Federal Capital Territory",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Guzape",
+            "Abuja",
+            "Abuja-Fct",
+            "Fctabuja"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA1A-430x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA1-339x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA3-431x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA4-430x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA5-425x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA6-430x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA7-427x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA8-426x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA9-430x467.png",
+            "https://www.abujaproperties.com/wp-content/uploads/2022/02/AA10-428x467.png"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/brand-new-luxury-5-bedroom-detached-duplex-at-guzape/",
+        "page": 6,
+        "time_last_updated": 1708057193981
+    },
+    {
+        "property_id": "25919",
+        "title": "Brand new 5 Bedroom detached duplex at Katampe for sale",
+        "description": "Exquisitely finished 5 Bedroom duplex at Katampe district Abuja is available for sale. This well designed apartment is located within a decent residential area. We currently have the furnished and unfurnished options available.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 133,
+        "price": "NGN 260,000,000",
+        "property_size": "620.00 sq. ft",
+        "miscellaneous_details": {
+            "rooms": "5",
+            "bedrooms": "6",
+            "bathrooms": "6"
+        },
+        "address": "Not Specified",
+        "city": "Abuja, Abuja FCT, Katampe Extension",
+        "area": "KATAMPE EXTENSION",
+        "state": "Abuja, Abuja FCT, Federal Capital Territory",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Katampe-Extension",
+            "Abuja",
+            "Abuja-Fct",
+            "Katampe-Extension"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2023/10/20230917_163843-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/10/20230917_163813-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2023/10/20230917_163815-835x467.jpg"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/brand-new-5-bedroom-detached-duplex-at-katampe-for-sale/",
+        "page": 6,
+        "time_last_updated": 1708057195684
+    },
+    {
+        "property_id": "18305",
+        "title": "6 units of 3 Bedroom apartment at Jabi",
+        "description": "Available for outright sale is 6 units of 3 bedroom apartment very close to Shoprite at Jabi. Good for investment as this location is now in HOT demand. Rooms are very spacious and has ample space for parking. This property comes with CofO and its a perfect investment for a wise investor.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 5499,
+        "price": "NGN 260,000,000",
+        "property_size": "Not Specified",
+        "miscellaneous_details": {
+            "year_built": "2015"
+        },
+        "address": "Jabi",
+        "city": "Abuja",
+        "area": "Jabi",
+        "state": "Not Specified",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Jabi",
+            "Abuja"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/UTAKO-250M2-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/UTAKO-250M1-835x467.jpg"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/6-units-of-3-bedroom-apartment-at-jabi/",
+        "page": 6,
+        "time_last_updated": 1708057197366
+    },
+    {
+        "property_id": "18181",
+        "title": "Lovely 4 Bedroom Terrace Duplex at Utako",
+        "description": "Newly built 4 bedroom terrace duplex is available at Utako district. The house is very well finished with good engineering features. It has ample internal and external space with 2 large sitting rooms.",
+        "listing_type": "Sales",
+        "property_type": "Housing",
+        "status": "Available",
+        "number_of_page_views": 1349,
+        "price": "NGN 253,000,000",
+        "property_size": "Not Specified",
+        "miscellaneous_details": {
+            "rooms": "4",
+            "bedrooms": "4",
+            "bathrooms": "4",
+            "year_built": "2015"
+        },
+        "address": "Not Specified",
+        "city": "Not Specified",
+        "area": "Utako",
+        "state": "Abuja, Abuja FCT, Federal Capital Territory",
+        "country": "Nigeria",
+        "zip": "Not Specified",
+        "location_tags": [
+            "Utako"
+        ],
+        "contact_info": {
+            "contact_address": "Plot 128 Osun Crescent Maitama, Abuja.",
+            "phone": "0806 393 3400, 0803 324 9800, 0705 111 6400,",
+            "email": "info@abujaproperties.com, abuja@abujaproperties.com"
+        },
+        "images_urls": [
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/IMG_6608-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/DSC_7376-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/DSC_7640-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/DSC_7713-Recovered-835x467.jpg",
+            "https://www.abujaproperties.com/wp-content/uploads/2016/01/DSC_7774-835x467.jpg"
+        ],
+        "advert_page_link": "https://www.abujaproperties.com/properties/lovely-4-bedroom-terrace-duplex-at-utako/",
+        "page": 6,
+        "time_last_updated": 1708057199006
+    }
+]
